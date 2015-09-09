@@ -1,0 +1,3 @@
+# DynamicAnimatorUI
+
+UIDynamicAnimator,ios7
